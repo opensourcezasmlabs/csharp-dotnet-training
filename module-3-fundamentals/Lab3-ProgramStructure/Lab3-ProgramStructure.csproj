@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Lab3_ProgramStructure</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\ZiaullahKhan\source\repos\csharp-dotnet-training\module-3-fundamentals\Lab3-ProgramStructure\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\ZiaullahKhan\source\repos\csharp-dotnet-training\module-3-fundamentals\Lab3-ProgramStructure\.editorconfig" />
+  </ItemGroup>
+
+</Project>
